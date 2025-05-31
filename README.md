@@ -1,2 +1,3 @@
-# Hello-world-
-meu primeiro projeto
+# Hello-world
+
+o meu primeiro projeto (feito usando C#)
